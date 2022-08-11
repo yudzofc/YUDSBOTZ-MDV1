@@ -1,19 +1,19 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
+    "ownerNumber": ["6285693650294@s.whatsapp.net","6285600380823@s.whatsapp.net"]
+    "ownerName": "Yuds Official", 
     "botName": "NEOBOT-STORE",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
     "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
-    "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "yootube": "https://instagram.com/lebihkerendariandy_warholl.093",
      
     "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "textBarisDonate1": "Dana : 0856-9365-0294",
+    "textBarisDonate2": "Gopay : 0858-1157-1839",
+    "textBarisDonate3": "Pulsa : 0856-9365-0294",
+    "textBarisDonate4": "Pulsa : 0856-0038-0823",
   
     "ButtonTextMenu1": "Youtube",
     "ButtonTextMenu2": "Rest Api",
@@ -23,14 +23,14 @@
   
     "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
     "ButtonMenuLink2": "https://api-lexxy-official.herokuapp.com",
-    "displayTextMenu3": "rules",
+    "displayTexMenu3": "rules",
     "displayTextMenu4": "donasi",
     "displayTextMenu5": "dashboard",
     "limitCount": 100,
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© YudsBotz-md",
+        "author": "Yuds Official"
     }
 }
